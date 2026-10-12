@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Robolectric smoke test: runs the real app code (MainActivity, GameView,
+  EditorView) on the JVM against Android 14 framework classes, clicks through
+  every screen, plays full runs with the solver bot, and saves screenshots.
+  Run: ./run.sh   (screenshots land in target/screens)
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ukkuru</groupId>
+  <artifactId>mazemakers-smoketest</artifactId>
+  <version>1</version>
+
+  <properties>
+    <maven.compiler.release>17</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <mirror>https://maven-central.storage-download.googleapis.com/maven2</mirror>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.robolectric</groupId>
+      <artifactId>android-all</artifactId>
+      <version>14-robolectric-10818077</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.robolectric</groupId>
+      <artifactId>robolectric</artifactId>
+      <version>4.17</version>
+      <scope>test</scope>
+      <!-- These AndroidX test libraries only live on Google's Maven, which the
+           build environment can't reach. The smoke test doesn't use them. -->
+      <exclusions>
+        <exclusion><groupId>androidx.test</groupId><artifactId>monitor</artifactId></exclusion>
+        <exclusion><groupId>androidx.test.espresso</groupId><artifactId>espresso-idling-resource</artifactId></exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <!-- Built from source by tools/androidx_test_from_source.py (see run.sh). -->
+      <groupId>local.androidx.test</groupId>
+      <artifactId>monitor-from-source</artifactId>
+      <version>1.8.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.2</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <sourceDirectory>../src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.13.0</version>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+        <configuration>
+          <redirectTestOutputToFile>false</redirectTestOutputToFile>
+          <systemPropertyVariables>
+            <robolectric.dependency.repo.url>${mirror}</robolectric.dependency.repo.url>
+            <robolectric.enabledSdks>34</robolectric.enabledSdks>
+            <screens.dir>${project.build.directory}/screens</screens.dir>
+          </systemPropertyVariables>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
