@@ -1,0 +1,76 @@
+﻿Company,What they do,Website,Name,Role,Founder / CTO,Email,Email status,LinkedIn,Note
+Probook,AI OS for home services,https://probook.ai,George Eliadis,Co-Founder & CEO,Founder,george@probook.ai,Found (BlitzAPI),https://www.linkedin.com/in/george-eliadis,
+Probook,AI OS for home services,https://probook.ai,Lewis Zhang,Co-Founder & CTO,Founder + CTO,lewis@probook.ai,Found (BlitzAPI),https://www.linkedin.com/in/lewisfzhang,
+Probook,AI OS for home services,https://probook.ai,Benjamin Cervantez,Co-Founder,Founder,ben@probook.ai,Found (BlitzAPI),https://www.linkedin.com/in/benjamin-cervantez,
+Brain Co.,Agent-native OS for regulated institutions,https://brain.co,Dan Ashton,"CEO, Co-founder",Founder,,Not found,https://www.linkedin.com/in/dashton-,
+Brain Co.,Agent-native OS for regulated institutions,https://brain.co,Mircea Pasoi,Co-founder & Head of Engineering,Founder (tech lead),,Not found,https://www.linkedin.com/in/mirceapasoi,No CTO title; he runs engineering
+Brain Co.,Agent-native OS for regulated institutions,https://brain.co,Revant Kapoor,Co-Founder & Head of Applied AI/ML,Founder,,Not found,https://www.linkedin.com/in/revantk,
+Brain Co.,Agent-native OS for regulated institutions,https://brain.co,Mohammad Almalkawi,Field CTO,CTO (field),,Not found,https://www.linkedin.com/in/almalkawi,
+Gong,Revenue AI OS,https://gong.io,Amit Bendov,CEO & Co-Founder,Founder,amit.bendov@gong.io,Found (BlitzAPI),https://www.linkedin.com/in/amitbendov,
+Gong,Revenue AI OS,https://gong.io,Eilon Reshef,Co-Founder & Chief Product Officer,Founder (tech lead),eilon.reshef@gong.io,Found (BlitzAPI),https://www.linkedin.com/in/eilonreshef,No CTO listed; Eilon owns product and tech
+Go.AI,On-prem AI for regulated industries,https://go.ai,,,,,Not found,,No founder or CTO data in any source checked; try the LinkedIn page linkedin.com/company/goabacus
+Tandem Health,AI-native clinic OS,https://tandemhealth.ai,Lukas Saari,CEO & Co-Founder,Founder,lukas.saari@tandemhealth.se,Found (BlitzAPI),https://www.linkedin.com/in/lukas-saari,Company also uses tandemhealth.ai; try lukas.saari@tandemhealth.ai if .se bounces
+Tandem Health,AI-native clinic OS,https://tandemhealth.ai,Oliver Astrand,CTO & Co-Founder,Founder + CTO,oliver.astrand@tandemhealth.se,Found (BlitzAPI),https://www.linkedin.com/in/oliverastrand,His LinkedIn lists oliver.astrand@tandemhealth.ai
+Tandem Health,AI-native clinic OS,https://tandemhealth.ai,Oscar Boldt-Christmas,Co-Founder,Founder,oscar.boldt-christmas@tandemhealth.se,"Pattern guess, unverified",https://www.linkedin.com/in/oscar-boldt-christmas,
+Pace,AI operations platform for insurance,https://withpace.com,Jamie Cuffe,Founder,Founder,jamie@withpace.com,"Pattern guess, unverified",https://www.linkedin.com/in/jamiecuffe,
+Biorce,AI OS for clinical trials,https://biorce.com,Pedro Coelho,Founder & CEO,Founder,pedro@biorce.com,Found (BlitzAPI),https://www.linkedin.com/in/pmfccoelho,
+Biorce,AI OS for clinical trials,https://biorce.com,Clara Bernardes,Co-Founder & Chief Scientific Officer,Founder,clara@biorce.com,"Pattern guess, unverified",https://www.linkedin.com/in/claramjbernardes,
+Biorce,AI OS for clinical trials,https://biorce.com,Diogo Pisoeiro,Co-Founder & Chief Product Officer,Founder,diogo@biorce.com,"Pattern guess, unverified",https://www.linkedin.com/in/diogo-pisoeiro-9935b050,
+Dwelly,AI OS for residential lettings,https://dwelly.group,Ilia Drozdov,Co-Founder & CEO,Founder,,Not found,https://www.linkedin.com/in/ilyadrozdov,
+Dwelly,AI OS for residential lettings,https://dwelly.group,Dan Lifshits,Co-Founder,Founder,,Not found,https://www.linkedin.com/in/danlifshits,
+Dwelly,AI OS for residential lettings,https://dwelly.group,Dmitry Khanukov,Co-Founder & CTO,Founder + CTO,,Not found,https://www.linkedin.com/in/khanukov,
+Oak (Identity Security OS),AI-native identity security OS,,,,,,Not found,,Stealth-stage; LinkedIn page linkedin.com/company/oak-identity-security-os lists no staff
+Avantos.ai,AI-native OS for financial advisors,https://avantos.ai,Rabih Ramadi,Co-Founder & CEO,Founder,rabih@avantos.ai,Found (BlitzAPI),https://www.linkedin.com/in/rabih-ramadi-87b583,
+Avantos.ai,AI-native OS for financial advisors,https://avantos.ai,Bassam Chaptini,Co-Founder & CEO,Founder,bassam@avantos.ai,Found (BlitzAPI),https://www.linkedin.com/in/bassam-chaptini-80ba6b4,
+Avantos.ai,AI-native OS for financial advisors,https://avantos.ai,Nadim Tawileh,CTO,CTO,nadim@avantos.ai,"Pattern guess, unverified",https://www.linkedin.com/in/ntawileh,
+Flagler Health,AI OS for musculoskeletal care,https://flaglerhealth.io,Albert Katz,Co-Founder & CEO,Founder,albert@flaglerhealth.io,"Pattern guess, unverified",https://www.linkedin.com/in/albertkatz,
+Flagler Health,AI OS for musculoskeletal care,https://flaglerhealth.io,Will Hu,Co-Founder & CTO,Founder + CTO,will@flaglerhealth.io,Found (BlitzAPI),https://www.linkedin.com/in/will-hu-7474b6a3,
+Flagler Health,AI OS for musculoskeletal care,https://flaglerhealth.io,Leon Anijar,Co-Founder & Chief Medical Officer,Founder,leon@flaglerhealth.io,"Pattern guess, unverified",https://www.linkedin.com/in/leon-anijar-1a25032b0,
+Eve,AI OS for plaintiff law firms,https://eve.legal,Jayanth M.,Founder & CEO,Founder,,Not found,https://www.linkedin.com/in/jayanth1,Last name hidden on LinkedIn
+Eve,AI OS for plaintiff law firms,https://eve.legal,David Zeng,Co-Founder,Founder,david.zeng@eve.legal,Found (BlitzAPI),https://www.linkedin.com/in/david-zeng-ba6533197,
+Eve,AI OS for plaintiff law firms,https://eve.legal,Matt Noe,Co-founder & CPO (runs engineering),Founder (tech lead),matt.noe@eve.legal,Found (BlitzAPI),https://www.linkedin.com/in/noematthew,
+Seekr,Enterprise AI OS with governed AI,https://seekr.com,Stefanos Poulis,Chief Technology and AI Officer,CTO,spoulis@seekr.com,Found (BlitzAPI),https://www.linkedin.com/in/stefanos-poulis-b5453916,Founder (Pat Condo) not returned by sources
+Guild.ai,Control plane for AI agents,https://guild.ai,Chris Waterson,CTO and Co-founder,Founder + CTO,,Not found,https://www.linkedin.com/in/chris-waterson,
+Guild.ai,Control plane for AI agents,https://guild.ai,Vincent Durmont,Co-Founder,Founder,,Not found,https://www.linkedin.com/in/vdurmont,
+duvo.ai,Enterprise execution OS,https://duvo.ai,Marek Paris,Co-Founder,Founder,,Not found,https://www.linkedin.com/in/marekparis,
+duvo.ai,Enterprise execution OS,https://duvo.ai,Tomas Cupr,Co-Founder,Founder,tomas.cupr@tcfcap.com,Found (BlitzAPI),https://www.linkedin.com/in/tomascupr,"Email is at his investment firm, not duvo.ai"
+First Resonance,AI factory OS,https://firstresonance.io,Karan Talati,Co-Founder & CEO,Founder,karan@firstresonance.io,Found (BlitzAPI),https://www.linkedin.com/in/karan-talati,
+First Resonance,AI factory OS,https://firstresonance.io,Neal Sarraf,Founder & Board Member,Founder,neal@firstresonance.io,"Pattern guess, unverified",https://www.linkedin.com/in/neal-sarraf,No longer operating day to day
+UnifyApps,Horizontal enterprise AI OS,https://unifyapps.com,Pavitar Singh,Co-founder & Co-CEO,Founder,pavitar.singh@unifyapps.com,Found (BlitzAPI),https://www.linkedin.com/in/pavitar,
+UnifyApps,Horizontal enterprise AI OS,https://unifyapps.com,Rachit Mittal,Co-Founder & CTO,Founder + CTO,rachit.mittal@unifyapps.com,Found (BlitzAPI),https://www.linkedin.com/in/rachitm27,
+Reach Security,AI-native security controls OS,https://reach.security,Garrett Hamilton,Co-Founder & CEO,Founder,garrett@reach.security,Found (BlitzAPI),https://www.linkedin.com/in/garrettdh,
+Reach Security,AI-native security controls OS,https://reach.security,Colt Blackmore,Co-Founder & CTO,Founder + CTO,colt@reach.security,Found (BlitzAPI),https://www.linkedin.com/in/coltb,
+Applied Intuition,Vehicle intelligence OS,https://appliedintuition.com,Qasar Younis,Founder & CEO,Founder,qasar@appliedintuition.com,Found (BlitzAPI),https://www.linkedin.com/in/qasar,Alt: qy@appliedintuition.com
+Applied Intuition,Vehicle intelligence OS,https://appliedintuition.com,Peter Ludwig,Co-founder & CTO,Founder + CTO,peter@appliedintuition.com,Found (BlitzAPI),https://www.linkedin.com/in/peterwludwig,Alt: pl@appliedintuition.com
+BioMap,Foundation-model OS for life sciences,https://biomap.com,Le Song,CTO & Chief AI Scientist,CTO,songle@biomap.com,Found (Tomba),https://www.linkedin.com/in/le-song-03223813,US arm now trades as Syneron Bio
+BioMap,Foundation-model OS for life sciences,https://biomap.com,Darcie Neff,President,Exec,darcie.neff@biomap.com,Found (Tomba),https://www.linkedin.com/in/darcie-neff-b31700186,Founder (Liu Wei) not found
+Olares (ByteTrade Lab),Open-source OS for autonomous agents,https://olares.com,,,,hi@olares.com,Found (Tomba),,Only a general inbox found; no founder or CTO data
+Akka,Platform for running agentic AI apps,https://akka.io,Jonas Boner,"Founder, CTO & Chairman",Founder + CTO,jonas.boner@akka.io,Found (BlitzAPI),https://www.linkedin.com/in/jonasboner,
+Auger,Autonomous supply chain OS,https://auger.com,Dave Clark,Founder & CEO,Founder,dave@auger.com,Found (BlitzAPI),https://www.linkedin.com/in/davehclark,Ex Amazon worldwide consumer CEO
+Auger,Autonomous supply chain OS,https://auger.com,Sanjay Dash,CTO,CTO,sanjay@auger.com,Found (BlitzAPI),https://www.linkedin.com/in/sanjay-dash-0a66332,
+Legion Intelligence,Agent orchestration for defense workflows,https://legionintel.com,Ben Van Roo,Co-Founder & CEO,Founder,ben@yurts.ai,Found (BlitzAPI),https://www.linkedin.com/in/vanroo,Company was Yurts AI; try ben@legionintel.com too
+Legion Intelligence,Agent orchestration for defense workflows,https://legionintel.com,Jason Schnitzer,Co-founder & CTO,Founder + CTO,jason@yurts.ai,"Pattern guess, unverified",https://www.linkedin.com/in/jasonschnitzer,Same pattern as CEO; also try jason@legionintel.com
+Mujin US,MujinOS for robotics automation,https://mujin-corp.com,Ross Diankov,"Co-founder, CEO Mujin US",Founder,ross.diankov@mujin-corp.com,Found (BlitzAPI),https://www.linkedin.com/in/ross-diankov-a7099745,
+Mujin US,MujinOS for robotics automation,https://mujin-corp.com,Felix von Drigalski,Global CTO,CTO,felix.vondrigalski@mujin.co.jp,Found (BlitzAPI),https://www.linkedin.com/in/felix-von-drigalski,
+LawVu,AI legal OS for in-house teams,https://lawvu.com,Sam Kidd,Co-Founder & CEO,Founder,sam.kidd@lawvu.com,Found (BlitzAPI),https://www.linkedin.com/in/samkidd,
+LawVu,AI legal OS for in-house teams,https://lawvu.com,Sarah Webb,CTO,CTO,sarah.webb@lawvu.com,Found (BlitzAPI),https://www.linkedin.com/in/saraheforbes,
+Huma,AI OS for regulated healthcare,https://huma.com,Dan Vahdat,Founder & CEO,Founder,dan@huma.com,Found (BlitzAPI),https://www.linkedin.com/in/danvahdat,
+Camunda,Agent and process orchestration,https://camunda.com,Bernd Ruecker,Co-Founder & Chief Technologist,Founder,bernd.ruecker@camunda.com,Found (BlitzAPI),https://www.linkedin.com/in/bernd-ruecker,
+Camunda,Agent and process orchestration,https://camunda.com,Daniel Meyer,CTO,CTO,daniel.meyer@camunda.com,Found (BlitzAPI),https://www.linkedin.com/in/daniel-meyer-a7713953,CEO cofounder Jakob Freund likely jakob.freund@camunda.com (pattern)
+Albert Invent,OS for chemists and R&D,https://albertinvent.com,Nick Talken,Co-Founder & CEO,Founder,nick@albertinvent.com,Found (BlitzAPI),https://www.linkedin.com/in/nick-talken-b720ba42,
+Albert Invent,OS for chemists and R&D,https://albertinvent.com,Ken Kisner,Co-Founder & Chairman,Founder,ken@albertinvent.com,Found (BlitzAPI),https://www.linkedin.com/in/kenkisner,
+peaq,Economy layer for robots and agents,https://peaq.network,Leonard Dorlochter,Co-Founder,Founder,,Not found,https://www.linkedin.com/in/leonarddorloechter,
+peaq,Economy layer for robots and agents,https://peaq.network,Max Thake,Co-Founder,Founder,thake@eotlabs.io,Found (BlitzAPI),https://www.linkedin.com/in/max-thake,EoT Labs is the company behind peaq
+peaq,Economy layer for robots and agents,https://peaq.network,Kamran Gul,CTO,CTO,gul@eotlabs.io,Found (BlitzAPI),https://www.linkedin.com/in/kamran-gul-48a51a15,
+Pivot,AI OS for procurement,https://pivotapp.ai,Marc-Antoine Lacroix,Co-Founder,Founder,marc-antoine@pivotapp.ai,"Pattern guess, unverified",https://www.linkedin.com/in/marc-antoinelacroix,
+Pivot,AI OS for procurement,https://pivotapp.ai,Romain Libeau,Co-Founder,Founder,romain@pivotapp.ai,Found (BlitzAPI),https://www.linkedin.com/in/romainlibeau,Alt: romain.libeau@pivotapp.ai
+Pivot,AI OS for procurement,https://pivotapp.ai,Estelle Giuly,Co-Founder & CTPO,Founder + CTO,estelle@pivotapp.ai,Found (BlitzAPI),https://www.linkedin.com/in/estelle-giuly-047a75112,
+Dealpath,AI OS for real estate investing,https://dealpath.com,Mike Sroka,CEO & Co-Founder,Founder,michael@dealpath.com,Found (BlitzAPI),https://www.linkedin.com/in/mike-sroka-9958391,
+Dealpath,AI OS for real estate investing,https://dealpath.com,Kenter Wu,Co-founder & CTO,Founder + CTO,kenter@dealpath.com,Found (BlitzAPI),https://www.linkedin.com/in/kenter-wu-24980816,
+Webidoo,AI operating layer for SMBs,https://webidoo.com,Giovanni Farese,Co-founder & CEO,Founder,giovanni.farese@webidoo.it,Found (BlitzAPI),https://www.linkedin.com/in/giovannifarese1,
+Webidoo,AI operating layer for SMBs,https://webidoo.com,Daniel Rota,Co-Founder & Chairman,Founder,daniel.rota@webidoo.it,Found (BlitzAPI),https://www.linkedin.com/in/rotadaniel,
+Fountain,AI-native OS for frontline hiring,https://fountain.com,Jeremy Cai,Founder,Founder,jeremy@fountain.com,"Pattern guess, unverified",https://www.linkedin.com/in/jeremyhcai,Source returned jeremy@italic.com (his other company)
+Fountain,AI-native OS for frontline hiring,https://fountain.com,Salim Jernite,Chief Product & Technology Officer,CTO,salim.jernite@fountain.com,Found (BlitzAPI),https://www.linkedin.com/in/salim-jernite-8ba0513a,
+cargo.one,AI-native OS for air cargo sales,https://cargo.one,Moritz Claussen,Founder & Co-CEO,Founder,moritz@cargo.one,Found (BlitzAPI),https://www.linkedin.com/in/mcclaussen,
+cargo.one,AI-native OS for air cargo sales,https://cargo.one,Oliver T. Neumann,Founder & Co-CEO,Founder,oliver@cargo.one,Found (BlitzAPI),https://www.linkedin.com/in/oneumann,
+cargo.one,AI-native OS for air cargo sales,https://cargo.one,Mike Roetgers,Founder & CTO,Founder + CTO,mike@cargo.one,Found (BlitzAPI),https://www.linkedin.com/in/mikeroetgers,
